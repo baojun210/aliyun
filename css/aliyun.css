@@ -1,5 +1,6 @@
 .header {
   width: 100%;
+  min-width: 1224px;
   height: 90px;
   position: absolute;
   z-index: 99;
@@ -206,6 +207,7 @@
 }
 .pages {
   width: 100%;
+  min-width: 1224px;
 }
 .pages .main1 {
   height: 500px;
